@@ -13,7 +13,7 @@
   </project>
   <project path="manifest" name="hejiann/patchrom" remote="github" revision="ics" />
   <project path="android" name="MiCode/patchrom_android" />
-  <project path="honor" name="MiCode/patchrom_honor" />
+  <project path="honor" name="hejiann/patchrom_honor" remote="github" revision="ics" />
   <project path="i9100" name="MiCode/patchrom_i9100" />
   <project path="lt18i" name="MiCode/patchrom_lt18i" />
   <project path="p1" name="MiCode/patchrom_p1" />
